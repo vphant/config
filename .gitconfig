@@ -1,0 +1,5 @@
+[user]
+	email = vphant@gmail.com
+	name = Vladyslav Zghodynskyi
+[core]
+	excludesfile = ~/.gitignore_global
