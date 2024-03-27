@@ -1,0 +1,9 @@
+alias gits="git status"
+alias gitf="git fetch --prune"
+alias ho="sudo nano /etc/hosts"
+alias h="git diff HEAD"
+alias nano="nano --const"
+alias wip="git commit -m \"wip\" --no-verify && git status"
+alias ga="git add -A .&&git status"
+alias dstop='docker stop $(docker ps -a -q)'
+alias drem='docker rm $(docker ps -a -q)'
