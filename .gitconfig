@@ -3,3 +3,5 @@
 	name = Vladyslav Zghodynskyi
 [core]
 	excludesfile = ~/.gitignore_global
+	autocrlf = input
+	editor = nano
